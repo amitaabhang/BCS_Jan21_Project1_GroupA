@@ -1,6 +1,10 @@
 # group_1_data_project
 A study about the socioeconomic impact of abandoned properties in the city of Newark. 
 Compare education rate in areas with abandoned properties compared to surrounding areas?
+
+Use location : resource file is in the Google drive. 
+
+
 4 -  - Education Record 
 College scorecard 
 https://www.kaggle.com/kaggle/college-scorecard
