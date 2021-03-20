@@ -1,0 +1,43 @@
+﻿Label,"Newark city, New Jersey!!Occupied housing units!!Estimate","Newark city, New Jersey!!Percent occupied housing units!!Estimate","Newark city, New Jersey!!Owner-occupied housing units!!Estimate","Newark city, New Jersey!!Percent owner-occupied housing units!!Estimate","Newark city, New Jersey!!Renter-occupied housing units!!Estimate","Newark city, New Jersey!!Percent renter-occupied housing units!!Estimate"
+Occupied housing units,"102,155","102,155","24,634","24,634","77,521","77,521"
+    HOUSEHOLD SIZE,,,,,,
+        1-person household,"34,314",33.60%,"6,996",28.40%,"27,318",35.20%
+        2-person household,"25,009",24.50%,"6,613",26.80%,"18,396",23.70%
+        3-person household,"18,127",17.70%,"4,076",16.50%,"14,051",18.10%
+        4-or-more-person household,"24,705",24.20%,"6,949",28.20%,"17,756",22.90%
+    OCCUPANTS PER ROOM,,,,,,
+        1.00 or less occupants per room,"89,181",87.30%,"23,114",93.80%,"66,067",85.20%
+        1.01 to 1.50 occupants per room,"4,929",4.80%,631,2.60%,"4,298",5.50%
+        1.51 or more occupants per room,"8,045",7.90%,889,3.60%,"7,156",9.20%
+    HOUSEHOLD TYPE (INCLUDING LIVING ALONE) AND AGE OF HOUSEHOLDER,,,,,,
+        Family households,"63,067",61.70%,"17,077",69.30%,"45,990",59.30%
+            Married-couple family,"31,595",30.90%,"11,610",47.10%,"19,985",25.80%
+                Householder 15 to 34 years,"3,982",3.90%,435,1.80%,"3,547",4.60%
+                Householder 35 to 64 years,"21,998",21.50%,"7,553",30.70%,"14,445",18.60%
+                Householder 65 years and over,"5,615",5.50%,"3,622",14.70%,"1,993",2.60%
+            Other family,"31,472",30.80%,"5,467",22.20%,"26,005",33.50%
+"                Male householder, no spouse present","7,881",7.70%,"1,637",6.60%,"6,244",8.10%
+                    Householder 15 to 34 years,"3,266",3.20%,164,0.70%,"3,102",4.00%
+                    Householder 35 to 64 years,"3,978",3.90%,"1,125",4.60%,"2,853",3.70%
+                    Householder 65 years and over,637,0.60%,348,1.40%,289,0.40%
+"                Female householder, no spouse present","23,591",23.10%,"3,830",15.50%,"19,761",25.50%
+                    Householder 15 to 34 years,"5,960",5.80%,378,1.50%,"5,582",7.20%
+                    Householder 35 to 64 years,"14,155",13.90%,"1,916",7.80%,"12,239",15.80%
+                    Householder 65 years and over,"3,476",3.40%,"1,536",6.20%,"1,940",2.50%
+        Nonfamily households,"39,088",38.30%,"7,557",30.70%,"31,531",40.70%
+            Householder living alone,"34,314",33.60%,"6,996",28.40%,"27,318",35.20%
+                Householder 15 to 34 years,"5,904",5.80%,399,1.60%,"5,505",7.10%
+                Householder 35 to 64 years,"18,083",17.70%,"4,228",17.20%,"13,855",17.90%
+                Householder 65 years and over,"10,327",10.10%,"2,369",9.60%,"7,958",10.30%
+            Householder not living alone,"4,774",4.70%,561,2.30%,"4,213",5.40%
+                Householder 15 to 34 years,"1,433",1.40%,0,0.00%,"1,433",1.80%
+                Householder 35 to 64 years,"2,890",2.80%,517,2.10%,"2,373",3.10%
+                Householder 65 years and over,451,0.40%,44,0.20%,407,0.50%
+    FAMILY TYPE AND PRESENCE OF OWN CHILDREN,,,,,,
+        With related children of householder under 18 years,"34,917",34.20%,"5,946",24.10%,"28,971",37.40%
+            With own children of householder under 18 years,"30,251",29.60%,"4,722",19.20%,"25,529",32.90%
+                Under 6 years only,"7,151",7.00%,915,3.70%,"6,236",8.00%
+                Under 6 years and 6 to 17 years,"5,881",5.80%,"1,043",4.20%,"4,838",6.20%
+                6 to 17 years only,"17,219",16.90%,"2,764",11.20%,"14,455",18.60%
+            No own children of householder under 18 years,"4,666",4.60%,"1,224",5.00%,"3,442",4.40%
+        No related children of householder under 18 years,"67,238",65.80%,"18,688",75.90%,"48,550",62.60%
