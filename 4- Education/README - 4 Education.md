@@ -5,10 +5,9 @@ Use location : resource file is in the Google drive.
 https://drive.google.com/drive/folders/13ryc7DyIACc78tC_o-s67LXHg982wf2h
 
 A study about the socioeconomic impact of abandoned properties in the city of Newark. 
-Compare education rate in areas with abandoned properties compared to surrounding areas?
 
 
-4 -  - Education Record 
+4 - Education Record 
 College scorecard 
 https://www.kaggle.com/kaggle/college-scorecard
 college-scorecard-release-*.zip contained a compressed version of the same data available through Kaggle Scripts.
