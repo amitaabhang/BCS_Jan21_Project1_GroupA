@@ -1,0 +1,67 @@
+﻿Label,"Newark city, Essex County, New Jersey!!Total!!Estimate","Newark city, Essex County, New Jersey!!Moved; within same county!!Estimate","Newark city, Essex County, New Jersey!!Moved; from different county, same state!!Estimate","Newark city, Essex County, New Jersey!!Moved; from different  state!!Estimate","Newark city, Essex County, New Jersey!!Moved; from abroad!!Estimate"
+Population 1 year and over,"277,885",7.40%,1.80%,1.50%,1.10%
+    AGE,,,,,
+        1 to 4 years,"17,583",11.00%,1.60%,3.20%,1.30%
+        5 to 17 years,"48,368",8.20%,0.80%,1.10%,1.50%
+        18 to 24 years,"29,049",7.40%,3.20%,1.50%,0.80%
+        25 to 34 years,"44,998",9.40%,2.50%,2.70%,1.50%
+        35 to 44 years,"40,144",7.90%,2.00%,1.60%,1.30%
+        45 to 54 years,"37,868",5.60%,2.00%,1.30%,0.50%
+        55 to 64 years,"30,418",5.90%,1.60%,0.80%,0.80%
+        65 to 74 years,"17,763",3.40%,1.00%,0.10%,0.50%
+        75 years and over,"11,694",3.50%,0.30%,0.60%,0.30%
+        Median age (years),34.8,29.9,33.4,29.7,28.9
+    SEX,,,,,
+        Male,"135,512",7.20%,2.30%,1.50%,0.80%
+        Female,"142,373",7.50%,1.30%,1.50%,1.30%
+    RACE AND HISPANIC OR LATINO ORIGIN,,,,,
+        One race,"271,249",7.30%,1.80%,1.50%,1.10%
+            White,"79,580",6.30%,2.20%,1.40%,1.30%
+            Black or African American,"139,438",8.40%,1.50%,1.60%,0.90%
+            American Indian and Alaska Native,933,20.50%,1.50%,0.00%,0.00%
+            Asian,"5,266",4.20%,5.70%,3.60%,3.30%
+            Native Hawaiian and Other Pacific Islander,85,0.00%,0.00%,0.00%,0.00%
+            Some other race,"45,947",5.80%,1.40%,1.20%,1.00%
+        Two or more races,"6,636",10.40%,2.50%,2.00%,1.50%
+        Hispanic or Latino origin (of any race),"100,710",7.30%,1.60%,1.40%,1.00%
+"        White alone, not Hispanic or Latino","30,502",4.70%,3.00%,1.40%,1.80%
+    NATIVITY AND CITIZENSHIP STATUS,,,,,
+        Native,"188,588",8.10%,1.80%,1.40%,0.40%
+        Foreign born,"89,297",5.80%,1.60%,1.60%,2.40%
+            Naturalized U.S. citizen,"39,394",4.00%,2.10%,1.60%,0.50%
+            Not a U.S. citizen,"49,903",7.20%,1.30%,1.70%,3.90%
+MARITAL STATUS,,,,,
+    Population 15 years and over,"222,687",6.80%,2.00%,1.40%,1.00%
+        Never married,"116,723",7.70%,2.40%,1.40%,0.90%
+"        Now married, except separated","66,810",5.70%,1.40%,1.60%,1.20%
+        Divorced or separated,"27,451",6.90%,2.10%,1.70%,0.60%
+        Widowed,"11,703",4.90%,1.00%,0.10%,0.90%
+EDUCATIONAL ATTAINMENT,,,,,
+    Population 25 years and over,"182,885",6.80%,1.80%,1.40%,1.00%
+        Less than high school graduate,"45,141",6.20%,1.90%,1.20%,0.50%
+        High school graduate (includes equivalency),"65,097",6.80%,1.50%,0.90%,1.00%
+        Some college or associate's degree,"44,722",8.00%,1.40%,1.90%,0.70%
+        Bachelor's degree,"19,883",5.00%,3.70%,2.00%,2.40%
+        Graduate or professional degree,"8,042",6.90%,2.10%,3.00%,0.50%
+INDIVIDUAL INCOME IN THE PAST 12 MONTHS (IN 2019 INFLATION-ADJUSTED DOLLARS),,,,,
+    Population 15 years and over,"222,687",6.80%,2.00%,1.40%,1.00%
+"        $1 to $9,999 or loss","42,125",8.60%,2.60%,1.30%,0.90%
+"        $10,000 to $14,999","20,361",6.90%,1.70%,1.10%,0.70%
+"        $15,000 to $24,999","32,230",8.20%,1.50%,1.60%,0.70%
+"        $25,000 to $34,999","25,145",7.10%,1.50%,1.50%,0.50%
+"        $35,000 to $49,999","22,708",4.50%,1.20%,1.30%,0.40%
+"        $50,000 to $64,999","14,261",5.80%,2.10%,2.10%,0.80%
+"        $65,000 to $74,999","4,855",6.40%,1.50%,2.30%,0.00%
+"        $75,000 or more","14,058",5.70%,1.70%,2.40%,0.50%
+        Median income (dollars),"22,236","18,562","18,454","26,030","17,882"
+POVERTY STATUS IN THE PAST 12 MONTHS,,,,,
+    Population 1 year and over for whom poverty status is determined,"266,124",7.50%,1.40%,1.50%,1.10%
+        Below 100 percent of the poverty level,"72,519",11.50%,1.80%,1.40%,1.30%
+        100 to 149 percent of the poverty level,"36,063",8.30%,1.30%,2.00%,1.50%
+        At or above 150 percent of the poverty level,"157,542",5.50%,1.30%,1.40%,0.90%
+HOUSING TENURE,,,,,
+    Population 1 year and over in housing units,"264,554",7.30%,1.30%,1.50%,1.10%
+        Householder lived in owner-occupied housing units,"68,351",2.80%,0.60%,0.90%,0.80%
+        Householder lived in renter-occupied housing units,"196,203",8.90%,1.50%,1.70%,1.20%
+PERCENT ALLOCATED,,,,,
+    Residence 1 year ago,8.20%,(X),(X),(X),(X)
