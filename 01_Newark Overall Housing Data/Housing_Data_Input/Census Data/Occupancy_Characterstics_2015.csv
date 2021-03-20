@@ -1,0 +1,43 @@
+﻿Label,"Newark city, New Jersey!!Occupied housing units!!Estimate","Newark city, New Jersey!!Owner-occupied housing units!!Estimate","Newark city, New Jersey!!Renter-occupied housing units!!Estimate"
+Occupied housing units,"98,524","20,490","78,034"
+HOUSEHOLD SIZE,,,
+    1-person household,34.40%,25.20%,36.80%
+    2-person household,26.20%,30.40%,25.10%
+    3-person household,16.80%,17.60%,16.60%
+    4-or-more-person household,22.60%,26.80%,21.50%
+OCCUPANTS PER ROOM,,,
+    1.00 or less occupants per room,94.30%,96.60%,93.60%
+    1.01 to 1.50 occupants per room,3.80%,2%,4.20%
+    1.51 or more occupants per room,2%,1.40%,2.10%
+HOUSEHOLD TYPE (INCLUDING LIVING ALONE) AND AGE OF HOUSEHOLDER,,,
+    Family households,59.60%,70.10%,56.90%
+        Married-couple family,25.40%,38.60%,21.90%
+            Householder 15 to 34 years,3.10%,2.20%,3.40%
+            Householder 35 to 64 years,18.30%,27.80%,15.80%
+            Householder 65 years and over,3.90%,8.50%,2.80%
+        Other family,34.30%,31.50%,35%
+"            Male householder, no wife present",8.30%,10.30%,7.80%
+                Householder 15 to 34 years,2.30%,1.30%,2.60%
+                Householder 35 to 64 years,5.40%,6.90%,5%
+                Householder 65 years and over,0.60%,2%,0.20%
+"            Female householder, no husband present",25.90%,21.30%,27.10%
+                Householder 15 to 34 years,7%,0.70%,8.60%
+                Householder 35 to 64 years,15.90%,13.90%,16.40%
+                Householder 65 years and over,3.10%,6.60%,2.10%
+    Nonfamily households,40.40%,29.90%,43.10%
+        Householder living alone,34.40%,25.20%,36.80%
+            Householder 15 to 34 years,4.90%,0%,6.10%
+            Householder 35 to 64 years,18.80%,13.20%,20.30%
+            Householder 65 years and over,10.70%,11.90%,10.30%
+        Householder not living alone,6%,4.70%,6.30%
+            Householder 15 to 34 years,1.80%,0.40%,2.20%
+            Householder 35 to 64 years,3.70%,3.20%,3.90%
+            Householder 65 years and over,0.40%,1.20%,0.30%
+FAMILY TYPE AND PRESENCE OF OWN CHILDREN,,,
+    With related children of householder under 18 years,35.40%,29.10%,37%
+        With own children of householder under 18 years,31.30%,22%,33.70%
+            Under 6 years only,6.90%,4.20%,7.60%
+            Under 6 years and 6 to 17 years,7.20%,2.20%,8.50%
+            6 to 17 years only,17.30%,15.60%,17.70%
+        No own children of householder under 18 years,4.10%,7.10%,3.30%
+    No related children of householder under 18 years,64.60%,70.90%,63%
